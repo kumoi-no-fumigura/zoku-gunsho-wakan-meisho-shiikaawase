@@ -1231,6 +1231,10 @@
    "dai": ""
   }
  ],
+ "translation": {
+  "count": 21,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-wakan-meisho-shiikaawase",
   "work": "和漢名所詩歌合",
@@ -1243,7 +1247,7 @@
   "blocks": 21,
   "chars": 3689,
   "poems": 69,
-  "yaku": 0,
+  "yaku": 21,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T23:47:46+09:00"
